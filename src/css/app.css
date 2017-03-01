@@ -1,0 +1,23 @@
+/*
+* @Author: taoyige
+* @Date:   2017-03-01 14:28:12
+* @Last Modified by:   taoyige
+* @Last Modified time: 2017-03-01 15:50:38
+*/
+
+ul {
+  list-style: none;
+}
+
+.comment-item {
+  border-bottom: 1px #ccc solid;
+  margin-top: 20px;
+}
+
+.like {
+  background-color: #e92322;
+}
+
+.no-resize{
+  resize: none;
+}
